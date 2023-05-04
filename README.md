@@ -1,6 +1,6 @@
 # Exploring-the-MLP-Mixer-Architecture for Image Classification: Performance Evaluation, Tuning, and Ablation Study on MNIST Dataset
 
-This repository contains the code and research paper for the study I conducted titled: "Exploring the MLP-Mixer Architecture for Image Classification: Performance Evaluation, Tuning, and Ablation Study on MNIST Dataset".
+This repository contains the code and research paper for the research I conducted titled: "Exploring the MLP-Mixer Architecture for Image Classification: Performance Evaluation, Tuning, and Ablation Study on MNIST Dataset".
 
 
 # Introduction 
