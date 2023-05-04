@@ -20,3 +20,8 @@ The experiments demonstrated that the MLP-Mixer model outperformed the baseline 
 
 Hence, the experiments show that the MLP-Mixer model outperforms the CNN and simple MLP baselines, achieving state-of-the-art performance on the MNIST dataset. The ablation study reveals that both components of the MLP-Mixer model, channel mixing layer and token mixing layer, contributes towards the improvement of model's performance.
 
+# Code Citation 
+
+The code for loading MNIST dataset and learning to train and validate on a simple MLP model was referred from : https://github.com/CSCfi/machine-learning-scripts/blob/master/notebooks/pytorch-mnist-mlp.ipynb 
+
+
