@@ -22,6 +22,6 @@ Hence, the experiments show that the MLP-Mixer model outperforms the CNN and sim
 
 # Code Citation 
 
-The code for loading MNIST dataset and learning to train and validate on a simple MLP model was referred from : https://github.com/CSCfi/machine-learning-scripts/blob/master/notebooks/pytorch-mnist-mlp.ipynb 
+The code for loading MNIST dataset and to train and validate a simple MLP model was referred from : https://github.com/CSCfi/machine-learning-scripts/blob/master/notebooks/pytorch-mnist-mlp.ipynb 
 
 
