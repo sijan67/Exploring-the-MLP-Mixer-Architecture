@@ -7,6 +7,8 @@ This repository contains the code and research paper for the research I conducte
 
 The research paper "MLP-Mixer: An all-MLP Architecture for Vision" proposes a novel approach to computer vision tasks using only multi-layer perceptrons (MLPs). In this study, I have reproduced and analyzed the MLP-Mixer architecture proposed in the paper, with a focus on image classification using the MNIST dataset. I have then compared the performance of the MLP-Mixer model with CNN and simple MLP baselines, and conduct an ablation study to determine the impact of different components of the MLP-Mixer model.
 
+<img width="652" alt="Screenshot 2024-06-07 at 12 00 12 PM" src="https://github.com/sijan67/Exploring-the-MLP-Mixer-Architecture/assets/70575969/401056b4-bff2-4c35-95ad-3a47ad9fbe20">
+
 
 ## Contents
 
